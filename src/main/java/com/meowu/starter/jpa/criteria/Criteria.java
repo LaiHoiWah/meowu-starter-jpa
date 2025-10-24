@@ -1,4 +1,4 @@
-package com.meowu.starter.jpa;
+package com.meowu.starter.jpa.criteria;
 
 import org.springframework.data.jpa.domain.Specification;
 
