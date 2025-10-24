@@ -25,4 +25,8 @@ public class Criteria<T>{
         }
         return this.specification;
     }
+
+    public Specification<T> getCondition(){
+        return this.specification;
+    }
 }
