@@ -26,7 +26,7 @@ public class Criteria<T>{
         return this.specification;
     }
 
-    public Specification<T> getCondition(){
+    public Specification<T> getRestriction(){
         return this.specification;
     }
 }
